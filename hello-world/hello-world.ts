@@ -1,6 +1,6 @@
 class HelloWorld {
-    static hello(name: string="Hello, World!") {
-        return name;
+    static hello(name: string="World") {
+    return `Hello, ${name}!`;
     }
 }
 
