@@ -1,5 +1,5 @@
 class HelloWorld {
-    static hello(name: string="") {
+    static hello(name: string="Hello, World!") {
         return name;
     }
 }
